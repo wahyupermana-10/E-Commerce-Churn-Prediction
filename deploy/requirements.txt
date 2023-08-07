@@ -1,0 +1,8 @@
+pandas
+joblib
+matplotlib
+seaborn
+feature_engine
+statsmodels
+scikit-learn==1.2.2
+tensorflow==2.13.0

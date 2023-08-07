@@ -1,0 +1,11 @@
+user_id,age,gender,region_category,membership_category,joining_date,joined_through_referral,preferred_offer_types,medium_of_operation,internet_option,last_visit_time,days_since_last_login,avg_time_spent,avg_transaction_value,avg_frequency_login_days,points_in_wallet,used_special_discount,offer_application_preference,past_complaint,complaint_status,feedback
+89fd82673d89828f,12,F,Town,Gold Membership,2017-02-15,Yes,Gift Vouchers/Coupons,Smartphone,Mobile_Data,23:43:46,17,414.06,44266.62,23.0,0.0,Yes,No,Yes,No Information Available,Too many ads
+950537eafbb44d3c,28,M,,Gold Membership,2016-05-13,Yes,Gift Vouchers/Coupons,Desktop,Mobile_Data,12:10:35,17,553.53,16804.08,17.0,788.61,Yes,No,No,Not Applicable,Quality Customer Care
+9faebde6d4b687a1,10,F,Town,No Membership,2017-03-23,,Without Offers,Both,Mobile_Data,09:19:46,20,1396.7859498759024,41553.32,7.0,630.1,No,Yes,No,Not Applicable,Poor Website
+b78ce5a21048f32f,23,M,Town,No Membership,2017-05-03,Yes,Without Offers,Smartphone,Wi-Fi,01:57:58,16,33.92,21035.14,17.0,672.39,Yes,No,Yes,Unsolved,Poor Website
+93e28f5497893452,27,F,Village,Gold Membership,2015-12-10,No,Without Offers,Smartphone,Mobile_Data,07:34:52,14,108.29,28311.16,15.0,784.36,Yes,No,No,Not Applicable,Poor Product Quality
+8bcd5a0e12317ebc,15,F,Town,No Membership,2015-09-05,Yes,Gift Vouchers/Coupons,Smartphone,Fiber_Optic,20:58:07,16,57.22,36164.1,17.0,594.23,No,Yes,Yes,Solved,Poor Website
+9c39379fca037a3c,34,M,City,Gold Membership,2017-11-10,Yes,Without Offers,Desktop,Mobile_Data,09:58:56,13,84.81,39121.18,14.0,783.7,No,Yes,Yes,Solved,No reason specified
+a4a060379f9a8b3e,29,F,City,Premium Membership,2016-05-23,Yes,Credit/Debit Card Offers,Both,Mobile_Data,22:23:44,15,556.53,48371.79,27.0,723.3,Yes,No,Yes,Solved,No reason specified
+a1f99fee0962df97,36,F,,Basic Membership,2016-07-27,Yes,Gift Vouchers/Coupons,,Wi-Fi,20:17:10,19,30.74,28209.33,19.0,617.41,Yes,No,Yes,Solved,Poor Website
+8d49be85389c06b8,26,F,Village,Silver Membership,2016-10-01,Yes,Without Offers,Smartphone,Mobile_Data,06:21:23,10,0.0,17920.31,7.0,751.19,No,Yes,Yes,Solved in Follow-up,Poor Product Quality
